@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Project - Make Event site with CMS
+A way to make dynamic pages from CMS.´
+Events show list of all events, upcoming and passed with sorting system.
+
 ## Getting Started
 
 First, run the development server:
